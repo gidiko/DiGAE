@@ -1,6 +1,22 @@
 # Directed Graph Auto-Encoders (DiGAEs)
 
-Instructions for reproducing the experiments reported in the paper "Directed Graph Auto-Encoders".
+Instructions for reproducing the experiments reported in our paper [Directed Graph Auto-Encoders] (https://arxiv.org/abs/2202.12449), published in AAAI 2022.
+
+If our code is helpful for your research, please cite our work:
+
+```
+@inproceedings{gkolliasAAAI22,
+  author = {Georgios Kollias and
+  Vasileios Kalantzis and
+  Tsuyoshi Id\'e and 
+  Aur\'elie Lozano and
+  Naoki Abe},
+  title = {Directed Graph Auto-Encoders},
+  booktitle = {Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI 2022)},
+  month = {February},
+  year = {2022}
+}
+```
 
 ## Install Dependencies
 
